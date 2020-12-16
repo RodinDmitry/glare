@@ -1,0 +1,11 @@
+<RawMarkup>
+	<Version Version="1" Revision="0"/>
+	<RawPictures/>
+	<Barcodes/>
+	<RawObjects>
+		<RawObject Name="Блик" ClassName="Блик" Comment="" Page="1">
+			<RawRect TopLeftX="1247" TopLeftY="465" TopRightX="1774" TopRightY="465" BottomLeftX="1247" BottomLeftY="877" BottomRightX="1774" BottomRightY="877" />
+			<Polygon Points="[1543.32160355258, 465.693207512752]; [1362.81492208349, 472.913474771516]; [1254.51091320204, 566.776949135442]; [1247.29064594328, 718.402561569475]; [1268.95144771957, 862.807906744746]; [1420.5770601536, 877.248441262273]; [1579.4229398464, 862.807906744746]; [1774.37015583301, 776.164699639584]; [1709.38775050414, 566.776949135442]"/>
+		</RawObject>
+	</RawObjects>
+</RawMarkup>

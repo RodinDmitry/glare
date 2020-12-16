@@ -1,0 +1,23 @@
+<RawMarkup>
+	<Version Version="1" Revision="0"/>
+	<RawPictures/>
+	<Barcodes/>
+	<RawObjects>
+		<RawObject Name="Блик" ClassName="Блик" Comment="" Page="1">
+			<RawRect TopLeftX="1379" TopLeftY="2413" TopRightX="2094" TopRightY="2413" BottomLeftX="1379" BottomLeftY="3206" BottomRightX="2094" BottomRightY="3206" />
+			<Polygon Points="[1544.0024130739, 2941.11468230381]; [1434.45203742698, 2820.03268816774]; [1379.67684960352, 2724.89683563225]; [1391.20846809267, 2430.84056415894]; [1590.1288870305, 2413.54313642521]; [1901.48258623754, 2451.02089651495]; [2011.03296188446, 2554.8054629173]; [1962.02358330558, 2802.73526043401]; [2094.6371959308, 3039.13343946158]; [1956.257774061, 3206.34190755425]; [1852.47320765866, 3197.69319368739]; [1696.79635805513, 2998.77277474956]; [1647.78697947625, 2900.75401759179]"/>
+		</RawObject>
+		<RawObject Name="Блик" ClassName="Блик" Comment="" Page="1">
+			<RawRect TopLeftX="888" TopLeftY="108" TopRightX="1056" TopRightY="108" BottomLeftX="888" BottomLeftY="181" BottomRightX="1056" BottomRightY="181" />
+			<Polygon Points="[888.555338634333, 108.522162964263]; [938.872037839183, 181.20183959349]; [1056.27766931717, 158.838862169113]; [1033.91469189279, 108.522162964263]"/>
+		</RawObject>
+		<RawObject Name="Блик" ClassName="Блик" Comment="" Page="1">
+			<RawRect TopLeftX="1151" TopLeftY="114" TopRightX="1497" TopRightY="114" BottomLeftX="1151" BottomLeftY="471" BottomRightX="1497" BottomRightY="471" />
+			<Polygon Points="[1151.32032337077, 125.294396032546]; [1162.50181208296, 265.063004934907]; [1363.76860890236, 471.920546110402]; [1358.17786454627, 320.970448495852]; [1497.94647344863, 114.112907320357]"/>
+		</RawObject>
+		<RawObject Name="Блик" ClassName="Блик" Comment="" Page="1">
+			<RawRect TopLeftX="1587" TopLeftY="102" TopRightX="2437" TopRightY="102" BottomLeftX="1587" BottomLeftY="242" BottomRightX="2437" BottomRightY="242" />
+			<Polygon Points="[1587.39838314614, 114.112907320357]; [1615.35210492661, 203.564817017868]; [2017.88569856541, 242.700027510529]; [2437.1915252725, 225.927794442246]; [2431.6007809164, 119.703651676451]; [2023.47644292151, 102.931418608168]"/>
+		</RawObject>
+	</RawObjects>
+</RawMarkup>

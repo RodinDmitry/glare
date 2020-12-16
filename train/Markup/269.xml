@@ -1,0 +1,27 @@
+<RawMarkup>
+	<Version Version="1" Revision="0"/>
+	<RawPictures/>
+	<Barcodes/>
+	<RawObjects>
+		<RawObject Name="Блик" ClassName="Блик" Comment="" Page="1">
+			<RawRect TopLeftX="2723" TopLeftY="1459" TopRightX="2844" TopRightY="1459" BottomLeftX="2723" BottomLeftY="2161" BottomRightX="2844" BottomRightY="2161" />
+			<Polygon Points="[2796.90275550698, 1459.9242555754]; [2723.69121466691, 1459.9242555754]; [2758.143704474, 2161.89373539484]; [2844.27492899173, 2153.28061294306]"/>
+		</RawObject>
+		<RawObject Name="Блик" ClassName="Блик" Comment="" Page="1">
+			<RawRect TopLeftX="2870" TopLeftY="1455" TopRightX="2943" TopRightY="1455" BottomLeftX="2870" BottomLeftY="2075" BottomRightX="2943" BottomRightY="2075" />
+			<Polygon Points="[2870.11429634704, 1459.9242555754]; [2900.26022492825, 2075.76251087711]; [2943.32583718711, 2071.45594965123]; [2900.26022492825, 1455.61769434951]"/>
+		</RawObject>
+		<RawObject Name="Блик" ClassName="Блик" Comment="" Page="1">
+			<RawRect TopLeftX="2982" TopLeftY="1253" TopRightX="3063" TopRightY="1253" BottomLeftX="2982" BottomLeftY="2041" BottomRightX="3063" BottomRightY="2041" />
+			<Polygon Points="[2982.08488822008, 1257.51587795875]; [3033.76362293072, 2041.31002107003]; [3063.90955151192, 2028.39033739237]; [3007.9242555754, 1253.20931673286]"/>
+		</RawObject>
+		<RawObject Name="Блик" ClassName="Блик" Comment="" Page="1">
+			<RawRect TopLeftX="329" TopLeftY="1623" TopRightX="837" TopRightY="1623" BottomLeftX="329" BottomLeftY="2347" BottomRightX="837" BottomRightY="2347" />
+			<Polygon Points="[540.264673142646, 1623.57358215907]; [699.607438500432, 1653.71951074027]; [768.51241811461, 1808.75571487217]; [807.271469147586, 1985.32472513351]; [837.417397728789, 2148.97405171718]; [768.51241811461, 2269.55776604199]; [639.315581338027, 2321.23650075262]; [501.50562210967, 2347.07586810794]; [393.841591462517, 2308.31681707497]; [368.0022241072, 2196.34622520193]; [329.243173074225, 2049.9231435218]; [346.46941797777, 1903.50006184167]; [368.0022241072, 1791.52946996863]; [402.454713914289, 1726.93105158034]; [458.440009850809, 1662.33263319205]"/>
+		</RawObject>
+		<RawObject Name="Блик" ClassName="Блик" Comment="" Page="1">
+			<RawRect TopLeftX="10" TopLeftY="1726" TopRightX="320" TopRightY="1726" BottomLeftX="10" BottomLeftY="2226" BottomRightX="320" BottomRightY="2226" />
+			<Polygon Points="[10.5576423586517, 1726.93105158034]; [109.608550554033, 1808.75571487217]; [234.49882610473, 1834.59508222749]; [320.630050622453, 2226.49215378313]; [10.5576423586517, 2105.90843945832]"/>
+		</RawObject>
+	</RawObjects>
+</RawMarkup>
