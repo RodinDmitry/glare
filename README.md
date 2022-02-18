@@ -6,7 +6,7 @@ Dataset for paper [Faster Glare Detection on Document Images](https://link.sprin
 ##Data
 
 
-[Data link](https://abbyyihq-my.sharepoint.com/:f:/g/personal/d_rodin_abbyy_com/EkxYUVW-eVFHqijVWbC4iM0BvulJ4EJnvW8SgGCyrn2Ajg?e=gWaxWj)
+[Data link](https://drive.google.com/file/d/1rB68X6MUjJbvWVgUHamEOu9b1wiMEa_O/view?usp=sharing)
 
 
 ### Citation format
