@@ -3,10 +3,10 @@
 Dataset for paper [Faster Glare Detection on Document Images](https://link.springer.com/chapter/10.1007/978-3-030-57058-3_12)
 
 
-##Data
+## Data
 
 
-[Data link](https://drive.google.com/file/d/1rB68X6MUjJbvWVgUHamEOu9b1wiMEa_O/view?usp=sharing)
+[Data link](https://disk.yandex.ru/d/fhluq_MgY23i6A)
 
 
 ### Citation format
